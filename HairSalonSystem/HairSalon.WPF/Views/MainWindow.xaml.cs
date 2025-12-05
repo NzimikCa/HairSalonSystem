@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace HairSalon.WPF
+namespace HairSalonSystem.HairSalon.WPF.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
